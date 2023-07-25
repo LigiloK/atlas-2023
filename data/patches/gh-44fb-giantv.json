@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "GianTV",
+	"description": "GianTV also known as \"El Posho\" is an Argentine Streamer and content creator Great friend of Farfadox and Pirutastic and part of Los Monos, Known for his spontaneous and direct humor",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/giaantv"
+		]
+	},
+	"path": {
+		"174-259": [
+			[
+				-1059,
+				-296
+			],
+			[
+				-1047,
+				-296
+			],
+			[
+				-1046,
+				-281
+			],
+			[
+				-1061,
+				-281
+			],
+			[
+				-1061,
+				-297
+			]
+		]
+	},
+	"center": {
+		"174-259": [
+			-1054,
+			-288
+		]
+	}
+}
