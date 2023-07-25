@@ -1,0 +1,88 @@
+{
+	"id": -1,
+	"name": "Renault Torino",
+	"description": "In 1961, IKA (Industrias Kaiser Argentina) was looking for a car that could break into the Argentinian market, a car that could combine American reliability with European elegance. The automaker provided two 1965 Rambler Americans  to Pininfarina seeking styling updates. The new design largely maintained the general shape of the original Rambler with a completely new interior and facelifted \"European\" grille and rear end.\n\nThe car was presented on 30 November 1966, at the Autódromo Juan y Oscar Gálvez and was marketed as the quintessential Argentinian car. The Torino proved popular throughout the 1960s and the 1970s.",
+	"links": {},
+	"path": {
+		"225-246": [
+			[
+				1039,
+				948
+			],
+			[
+				1030,
+				951
+			],
+			[
+				1024,
+				946
+			],
+			[
+				1009,
+				943
+			],
+			[
+				1013,
+				932
+			],
+			[
+				1034,
+				932
+			],
+			[
+				1042,
+				924
+			],
+			[
+				1071,
+				925
+			],
+			[
+				1078,
+				932
+			],
+			[
+				1097,
+				934
+			],
+			[
+				1102,
+				935
+			],
+			[
+				1102,
+				945
+			],
+			[
+				1097,
+				945
+			],
+			[
+				1093,
+				951
+			],
+			[
+				1090,
+				950
+			],
+			[
+				1085,
+				948
+			],
+			[
+				1083,
+				947
+			],
+			[
+				1038,
+				946
+			]
+		]
+	},
+	"center": {
+		"225-246": [
+			1049,
+			935
+		]
+	}
+}
