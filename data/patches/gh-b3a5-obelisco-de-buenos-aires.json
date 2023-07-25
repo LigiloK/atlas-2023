@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Obelisco de Buenos Aires",
+	"description": "The Obelisco de Buenos Aires (Obelisk of Buenos Aires) is a national historic monument and icon of Buenos Aires. Located in the Plaza de la República in the intersection of avenues Corrientes and 9 de Julio, it was erected in 1936 to commemorate the quadricentennial of the first foundation of the city.\nIt was designed by architect Alberto Prebisch (one of the main architects of the Argentine modernism",
+	"links": {},
+	"path": {
+		"218-246": [
+			[
+				1152,
+				966
+			],
+			[
+				1152,
+				921
+			],
+			[
+				1159,
+				914
+			],
+			[
+				1165,
+				921
+			],
+			[
+				1166,
+				966
+			],
+			[
+				1158,
+				972
+			]
+		]
+	},
+	"center": {
+		"218-246": [
+			1159,
+			944
+		]
+	}
+}
