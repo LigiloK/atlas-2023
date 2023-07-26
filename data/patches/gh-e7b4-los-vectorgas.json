@@ -1,0 +1,38 @@
+{
+	"id": -1,
+	"name": "Los Vectorgas",
+	"description": "Vector is an Argentinian Streamer and Content Creator known for his Let's play videos.\nThis work carries the flags of the Spanish-speaking countries that make up its community called \"Los Vectorgas\"",
+	"links": {
+		"website": [
+			"https://www.youtube.com/user/VectorAtGaming",
+			"https://www.twitch.tv/vector",
+			"https://kick.com/vector7x"
+		]
+	},
+	"path": {
+		"157-259": [
+			[
+				-806,
+				585
+			],
+			[
+				-805,
+				520
+			],
+			[
+				-708,
+				520
+			],
+			[
+				-709,
+				585
+			]
+		]
+	},
+	"center": {
+		"157-259": [
+			-757,
+			553
+		]
+	}
+}
